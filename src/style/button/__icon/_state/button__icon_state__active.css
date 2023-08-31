@@ -1,0 +1,3 @@
+.button__icon_state__active::before {
+  transform: rotate(90deg);
+}

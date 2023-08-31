@@ -1,0 +1,12 @@
+.page {
+  padding: 0;
+  margin: 0 auto;
+  height: 100vh;
+  max-height: 1020px;
+  max-width: 1920px;
+  min-width: 1280px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}

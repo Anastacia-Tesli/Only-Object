@@ -1,0 +1,17 @@
+.button__icon {
+  width: 10px;
+  height: 2px;
+  background-color: #fff;
+  position: relative;
+}
+
+.button__icon::before {
+  content: '';
+  background-color: #fff;
+  position: absolute;
+  top: -4px;
+  left: 4px;
+  width: 2px;
+  height: 10px;
+  transition: transform 0.2s ease-in-out;
+}

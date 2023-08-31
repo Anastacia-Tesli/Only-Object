@@ -1,0 +1,9 @@
+.button_state_active {
+  opacity: 1;
+  width: fit-content;
+  border-radius: 25px;
+}
+
+.button_state_active:hover {
+  opacity: 1;
+}
